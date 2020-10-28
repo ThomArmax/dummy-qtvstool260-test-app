@@ -1,0 +1,7 @@
+.vs
+*.user
+x64
+Win32
+QtWidgetsApplication1/x64
+QtWidgetsApplication1/Win32
+
